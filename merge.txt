@@ -1,2 +1,0 @@
-tis is a text file
-to test conflict main
