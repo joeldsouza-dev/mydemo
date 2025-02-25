@@ -1,1 +1,2 @@
  tis is a text file
+ to test merge conflict branch
